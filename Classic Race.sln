@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Classic Race", "Classic Race\Classic Race\Classic Race.csproj", "{9E24E7CE-E16B-49BA-9088-C1ECE9774035}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Classic RaceContent", "Classic Race\Classic RaceContent\Classic RaceContent.contentproj", "{26391C71-78EA-422B-BF01-3B81048BD522}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Windows Phone = Debug|Windows Phone
+		PC|Windows Phone = PC|Windows Phone
+		Release|Windows Phone = Release|Windows Phone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9E24E7CE-E16B-49BA-9088-C1ECE9774035}.Debug|Windows Phone.ActiveCfg = Debug|Windows Phone
+		{9E24E7CE-E16B-49BA-9088-C1ECE9774035}.Debug|Windows Phone.Build.0 = Debug|Windows Phone
+		{9E24E7CE-E16B-49BA-9088-C1ECE9774035}.Debug|Windows Phone.Deploy.0 = Debug|Windows Phone
+		{9E24E7CE-E16B-49BA-9088-C1ECE9774035}.PC|Windows Phone.ActiveCfg = PC|Windows Phone
+		{9E24E7CE-E16B-49BA-9088-C1ECE9774035}.PC|Windows Phone.Build.0 = PC|Windows Phone
+		{9E24E7CE-E16B-49BA-9088-C1ECE9774035}.PC|Windows Phone.Deploy.0 = PC|Windows Phone
+		{9E24E7CE-E16B-49BA-9088-C1ECE9774035}.Release|Windows Phone.ActiveCfg = Release|Windows Phone
+		{9E24E7CE-E16B-49BA-9088-C1ECE9774035}.Release|Windows Phone.Build.0 = Release|Windows Phone
+		{9E24E7CE-E16B-49BA-9088-C1ECE9774035}.Release|Windows Phone.Deploy.0 = Release|Windows Phone
+		{26391C71-78EA-422B-BF01-3B81048BD522}.Debug|Windows Phone.ActiveCfg = Debug|Windows Phone
+		{26391C71-78EA-422B-BF01-3B81048BD522}.PC|Windows Phone.ActiveCfg = Release|Windows Phone
+		{26391C71-78EA-422B-BF01-3B81048BD522}.Release|Windows Phone.ActiveCfg = Release|Windows Phone
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
